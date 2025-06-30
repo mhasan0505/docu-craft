@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Dashborad() {
   return (
-    <div>dashborad</div>
+    <div className='content-center'>dashborad</div>
   )
 }
